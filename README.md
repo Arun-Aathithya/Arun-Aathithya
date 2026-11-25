@@ -53,8 +53,8 @@ Multiplayer social-deduction game (in development) designed for phone and PC pla
 
 `Node.js` `PWA` `Web client`
 
-### Digital Monastery (Hack-AI-Thon 2.0)
-Team Future Crafters' proposal for digitizing monastery heritage with offline capture kits, AI-assisted script reading and blockchain-backed authenticity. I created the working prototype.
+### Digital Monastery (Hack-AI-Thon 2.0 competition)
+Competition entry with Team Future Crafters: a platform to digitize monastery heritage using offline capture kits, AI-assisted script reading and blockchain-backed authenticity. I created the working prototype.
 
 `Prototyping` `AI/ML` `Blockchain` `Cloud`
 
