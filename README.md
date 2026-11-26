@@ -1,62 +1,58 @@
 <div align="center">
 
-# Arun Aathithya A S
+<img src="assets/banner.png" alt="Arun Aathithya A S - Full-Stack Developer" width="100%" />
 
-### Full-Stack Developer · Chennai, India
+<br/>
 
-Building end-to-end software: **Java / Spring Boot backends, React and Flutter frontends, and IoT systems**.
-Open to **Software Developer** and **Full-Stack** roles.
+**Full-Stack Developer from Chennai, India**
+Java / Spring Boot backends · React and Flutter frontends · IoT systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-aathithya-676297329)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunaathithya2007@gmail.com)
+![Open to work](https://img.shields.io/badge/Open%20to%20Work-Software%20Developer%20%7C%20Full--Stack-2ea44f?style=for-the-badge)
 
 </div>
 
 ---
 
-## About
+## About me
 
-I'm an engineering graduate from Dhaanish Ahmed College of Engineering who likes taking a product from idea to working system: database, API, user interface and, when needed, the hardware. I focus on clean, explainable solutions over buzzwords.
+I'm an engineering graduate from **Dhaanish Ahmed College of Engineering** who likes taking a product from idea to a working system: database, API, user interface and, when needed, the hardware. I prefer clean, explainable solutions over buzzwords, and I ship projects end to end.
+
+- Building full-stack systems with **Spring Boot, MySQL and React**
+- Building **IoT + AI** projects that connect real sensors to live dashboards
+- Competed in **Hack-AI-Thon 2.0** and built the prototype for our entry
+- Looking for a **Software Developer / Full-Stack** role in Chennai (on-site, hybrid or remote)
 
 ## Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,python,fastapi,js,react,html,css,dart,flutter,git,github&perline=13" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,python,fastapi,js,react,html,css,dart,flutter,nodejs,git,github&perline=14" alt="Tech stack" />
 </p>
 
 | Area | Tools |
 |---|---|
-| Backend | Java, Spring Boot, Spring Data JPA, REST APIs, Python, FastAPI |
+| Backend | Java, Spring Boot, Spring Data JPA, REST APIs, Node.js, Python, FastAPI |
 | Frontend | JavaScript, React, HTML, CSS, Chart.js |
 | Mobile | Flutter, Dart |
 | Data | MySQL, SQL, JDBC |
-| IoT & messaging | ESP32, MQTT |
-| Tools | Git, GitHub, Maven |
+| IoT and messaging | ESP32, MQTT, WebSockets |
+| Tools | Git, GitHub, Maven, npm |
 
 ## Featured projects
 
-### [Inventory Management POS](https://github.com/Arun-Aathithya/Inventory_POS)
-Full-stack Point-of-Sale and inventory platform with **Spring Boot, MySQL and a JavaScript dashboard**.
-- Transactional billing with atomic stock deduction, barcode lookup and PDF invoices (email and WhatsApp share link)
-- Scheduled low-stock and expiry alerts by email / SMS
-- Analytics dashboard, sales-based reorder suggestions, dynamic pricing suggestions and rule-based fraud detection
+| Project | What it is | Stack |
+|---|---|---|
+| [**Inventory Management POS**](https://github.com/Arun-Aathithya/Inventory_POS) | Full-stack POS and inventory platform: transactional billing, PDF invoices, low-stock and expiry alerts, analytics dashboard, reorder and pricing suggestions, fraud detection | `Java` `Spring Boot` `MySQL` `JavaScript` |
+| [**TrustGuard AI**](https://github.com/Arun-Aathithya/TrustGuard) | Predictive-maintenance system that scores how much to trust each sensor and prediction. ESP32 sensor node streaming over MQTT to a FastAPI backend and React dashboard | `ESP32` `MQTT` `FastAPI` `React` `Python` |
+| [**Traitor in the Room**](https://github.com/Arun-Aathithya/Traitor-in-the-room) | Real-time multiplayer social-deduction game for phone and PC players together, with rooms, accounts, a credits shop and a creator dashboard (in development) | `Node.js` `WebSockets` `PWA` |
+| [**ScoreBoard Arena**](https://github.com/Arun-Aathithya/ScoreBoard_Arena) | Sports tournament dashboard for teams, players, live match scoring, standings and statistics | `Next.js` `TypeScript` `Tailwind` `Supabase` |
+| **Digital Monastery** | Hack-AI-Thon 2.0 competition entry (Team Future Crafters): digitizing monastery heritage with offline capture kits, AI-assisted script reading and blockchain-backed authenticity. I built the prototype | `Prototyping` `AI/ML` `Blockchain` |
 
-`Java` `Spring Boot` `MySQL` `JavaScript` `Chart.js`
+## Currently
 
-### [TrustGuard AI](https://github.com/Arun-Aathithya/TrustGuard)
-IoT monitoring system: an **ESP32 sensor node** (temperature, vibration, OLED display) streaming over **MQTT** to a **FastAPI** backend and a **React** dashboard.
-
-`ESP32` `MQTT` `FastAPI` `React` `Python`
-
-### [Traitor in the Room](https://github.com/Arun-Aathithya/Traitor-in-the-room)
-Multiplayer social-deduction game (in development) designed for phone and PC players together, with rooms, a credits/XP system and a creator dashboard.
-
-`Node.js` `PWA` `Web client`
-
-### Digital Monastery (Hack-AI-Thon 2.0 competition)
-Competition entry with Team Future Crafters: a platform to digitize monastery heritage using offline capture kits, AI-assisted script reading and blockchain-backed authenticity. I created the working prototype.
-
-`Prototyping` `AI/ML` `Blockchain` `Cloud`
+- Polishing my projects with documentation, screenshots and tests
+- Strengthening data structures, algorithms and problem solving ([LeetCode practice](https://github.com/Arun-Aathithya/Leet-Code))
 
 ## Connect
 
