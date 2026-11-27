@@ -9,7 +9,7 @@ Java / Spring Boot backends · React and Flutter frontends · IoT systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-aathithya-676297329)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunaathithya2007@gmail.com)
-![Open to work](https://img.shields.io/badge/Open%20to%20Work-Software%20Developer%20%7C%20Full--Stack-2ea44f?style=for-the-badge)
+![Open to work](https://img.shields.io/badge/Open%20to-Internships%20%7C%20Full--Stack-2ea44f?style=for-the-badge)
 
 </div>
 
@@ -17,12 +17,12 @@ Java / Spring Boot backends · React and Flutter frontends · IoT systems
 
 ## About me
 
-I'm an engineering graduate from **Dhaanish Ahmed College of Engineering** who likes taking a product from idea to a working system: database, API, user interface and, when needed, the hardware. I prefer clean, explainable solutions over buzzwords, and I ship projects end to end.
+I'm a third-year Computer Science Engineering student at **Dhaanish Ahmed College of Engineering** who likes taking a product from idea to a working system: database, API, user interface and, when needed, the hardware. I prefer clean, explainable solutions over buzzwords, and I ship projects end to end.
 
 - Building full-stack systems with **Spring Boot, MySQL and React**
 - Building **IoT + AI** projects that connect real sensors to live dashboards
 - Competed in **Hack-AI-Thon 2.0** and built the prototype for our entry
-- Looking for a **Software Developer / Full-Stack** role in Chennai (on-site, hybrid or remote)
+- Looking for **internship and Software Developer / Full-Stack** opportunities in Chennai (on-site, hybrid or remote)
 
 ## Tech stack
 
